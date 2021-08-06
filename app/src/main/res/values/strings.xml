@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_text">Trivia</string>
+    <string name="out_of_text">Question 45/89</string>
+    <string name="true_button">True</string>
+    <string name="false_button">false</string>
+    <string name="next_button">Next</string>
+    <string name="sample_question_text">this is where we will have the actual text to be shown</string>
+    <string name="text_formatted">Question: %d/%d</string>
+    <string name="correct_answer">correct</string>
+    <string name="incorrect_answer">incorrect</string>
+    <string name="Score_text">Score</string>
+    <string name="Score_value">Score_number</string>
+    <string name="points">pts</string>
+</resources>
